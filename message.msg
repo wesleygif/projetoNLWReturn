@@ -1,1 +1,4 @@
--Feito a pagina principal "Mobile" 
+-DayTwo
+-Criação do menu-expanded
+-automatização no menu-expanded
+-Referencia de HTML no JavaScript utilizando (DOM)
