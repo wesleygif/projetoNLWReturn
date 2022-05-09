@@ -1,4 +1,4 @@
--DayTwo
--Criação do menu-expanded
--automatização no menu-expanded
--Referencia de HTML no JavaScript utilizando (DOM)
+-DayTree
+-Animação do menu-expanded
+-Creação da section ABOUT 
+-Separação por section HOME/SERVICES/ABOUT
